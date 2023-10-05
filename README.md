@@ -1,5 +1,7 @@
 # Car Price Prediction
 
+![image](https://github.com/Aliraqimustafa/car-price-prediction/raw/main/_last.jfif)
+
 This repository focuses on predicting car prices using machine learning algorithms. The dataset used for this project is sourced from Kaggle and can be found at the following link: [Ford Car Price Prediction Dataset](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction/).
 
 ## Contact Information
@@ -17,6 +19,10 @@ The `modelling 1.ipynb` notebook is focused on creating and evaluating machine l
 
 ### Dataset
 The raw dataset (`ford.csv`) is included in this repository. It forms the basis for the analysis and prediction tasks.
+
+### Accuracy
+
+The predictive model achieved an accuracy of 97% and a Mean Absolute Error of 0.124 on the training data. On the test data, the accuracy was 94% with a Mean Absolute Error of 0.167.
 
 ## Usage
 
